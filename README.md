@@ -9,17 +9,6 @@ Creating backend logic, APIs, databases, and automation tools.
 Focused on Python, Django, SQL, and Telegram bot frameworks like Aiogram & pyTelegramBotAPI.
 ---
 
-## 🚀 My Work
-<p align="left">
-  <a href="https://github.com/Kamoliddin7777?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20My%20Projects-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&background=003333&center=true&vCenter=true&width=900&lines=If+it+works+—+I+improve+it.;If+it+breaks+—+I+fix+it.;That's+the+only+rule+that+matters." />
-</p>
 
 ### What I actually do:
 
