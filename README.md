@@ -48,5 +48,5 @@ I don’t try to be everything — just effective.
 
 
  🔗 My Projects
-[➡️ View all my repositories](https://github.com/Kamoliddin7777?tab=repositories)
+[ View all my repositories](https://github.com/Kamoliddin7777?tab=repositories)
 ---
