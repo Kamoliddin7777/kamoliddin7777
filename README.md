@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" width="180" style="border-radius: 12px;" />
+  <img src="01706f1f5fc39b3de2e87359125ab6be.png" width="180" style="border-radius: 12px;" />
 </p>
 
 ## 💫 About Me
