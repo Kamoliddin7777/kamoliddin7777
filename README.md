@@ -1,9 +1,20 @@
 <!-- README.md -->
-💫 About Me
+<p align="left">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" width="180" style="border-radius: 12px;" />
+</p>
 
-Studying Computer Engineering and focusing mainly on backend development.
-Build systems, automate processes, create APIs, and structure logic behind applications.
-Working with Python, Django, SQL databases, and Telegram bot frameworks.
+## 💫 About Me
+Studying **Computer Engineering**, mainly working on **backend development**.  
+Creating backend logic, APIs, databases, and automation tools.  
+Focused on Python, Django, SQL, and Telegram bot frameworks like Aiogram & pyTelegramBotAPI.
+---
+
+## 🚀 My Work
+<p align="left">
+  <a href="https://github.com/Kamoliddin7777?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20My%20Projects-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 <p align="center">
@@ -40,7 +51,8 @@ I don’t try to be everything — just effective.
 ---
 
 ### Contribution  
-<img src="https://kamoliddin7777.github.io/kamoliddin7777/github-snake-dark.svg?palette=github-dark" alt="github contribution snake dark" />
 
 
+ 🔗 My Projects
+[➡️ View all my repositories](https://github.com/Kamoliddin7777?tab=repositories)
 ---
