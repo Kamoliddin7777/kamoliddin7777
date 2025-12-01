@@ -19,7 +19,6 @@ Focused on Python, Django, SQL, and Telegram bot frameworks like Aiogram & pyTel
 - Create Telegram bots (`aiogram`, `python-telegram-bot`, `pyTelegramBotAPI`)
 - Work with HTML, CSS, and basic JavaScript
 - Automate workflows, write utilities, debug, refactor
-- Deploy local projects, configure environments, manage Windows setup
 - Work with Git, GitHub, version control, project structuring
 
 I don’t try to be everything — just effective.
@@ -43,6 +42,5 @@ I don’t try to be everything — just effective.
 
 ### Contribution  
 
-![snake gif](https://github.com/Kamoliddin7777/Kamoliddin7777/blob/output/github-contribution-grid-snake.svg)
 
 ---
