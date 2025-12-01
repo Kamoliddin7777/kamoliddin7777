@@ -1,12 +1,10 @@
 <!-- README.md -->
 
-<div align="center">
 
-# 👨‍💻 **Kamoliddin Umidov**
 
-### *Backend Developer — Python | Django | SQL*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+%7C+SQL;Telegram+Bots+Developer;Always+Learning+Something+New" />
+</p>
 
 ---
 
@@ -65,20 +63,8 @@ I don’t try to be everything — just effective.
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<p align="center">
-  <img src="https://github.com/Kamoliddin7777/Kamoliddin7777/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
-## 🎨 **Animated Decorations**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+%7C+SQL;Telegram+Bots+Developer;Always+Learning+Something+New" />
-</p>
-
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
